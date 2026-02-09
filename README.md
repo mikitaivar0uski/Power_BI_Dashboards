@@ -16,7 +16,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 ### Page 2: Job Title Drill Through
 💡
-![Dashboard Page 2]([images/Drill%20Through.png](https://github.com/mikitaivar0uski/Power_BI_Dashboards/blob/61aab7f9728bd139dfbd9a28b5f250a41b0aed28/Images/Drill%20Through.png))
+![Dashboard Page 2](https://github.com/mikitaivar0uski/Power_BI_Dashboards/blob/61aab7f9728bd139dfbd9a28b5f250a41b0aed28/Images/Drill%20Through.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
