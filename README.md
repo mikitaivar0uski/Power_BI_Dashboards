@@ -10,7 +10,7 @@ The dataset consists of approximately **479,000 job postings** collected via **w
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](images/Main%20Page.png)
+![Dashboard Page 1](https://github.com/mikitaivar0uski/Power_BI_Dashboards/blob/a371ec865d68998c0d85001002ccf3e0f94bd53e/Images/Main%20Page.png)
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
